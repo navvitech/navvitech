@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a UI Engineer at MoEngage.
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently building <a href='https://frontendlearn.vercel.app/'>frontendlearn.in</a>
 
 - 📫 How to reach me **navaneethreddyboda@gmail.com**
 
