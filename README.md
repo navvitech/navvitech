@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a UI Engineer at MoEngage.
 
-- 🌱 I’m currently building <a href='https://frontendlearn.in'>frontendlearn.in</a>
+- 🌱 I’m currently building [shotzy](https://shotzy.dev/), <a href='https://frontendlearn.in'>frontendlearn.in</a>
 
 - 📫 How to reach me **navaneethreddyboda@gmail.com**
 
